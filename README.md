@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshurana67" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshurana67?logo=twitter&style=for-the-badge" alt="priyanshurana67" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [priyanshu-rana.onrender.com](https://priyanshu-rana.onrender.com)
+- 👨‍💻 All of my projects are available at [priyanshurana.netlify.app]((https://priyanshurana.netlify.app))
 
 - 💬 Ask me about **Application and Web Development**
 
